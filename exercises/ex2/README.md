@@ -83,37 +83,8 @@ Now it is all set and you can trigger the command in SAP Automation Pilot.
 To do so, click on the **Trigger** button located in the the top right screen and proceed further as no further inputs are needed.
 ![](./images/02-16.png)
 
-**Success** - the commands have been completed and data is pushed to SAP Cloud ALM! 
+**Success** - the commands have been completed and data has been is pushed to SAP Cloud ALM API for Custom Metrics!! 
 ![](./images/02-17.png)
-
-Now let's check the data ingested into SAP Cloud ALM - Health Monitoring. 
-
-## Exercise 2.3  Consume the custom metrics in SAP Cloud ALM - Health Monitoring
-
-**Access SAP Cloud ALM** by following this link here: https://xp267-calm-1hdji9xc.eu10-004.alm.cloud.sap/
-
-**Login** with your user --> select the **Operations** menu item --> **Health Monitoring**
-
-Within Health Monitoring Overview, click on **Monitoring**
-![](./images/02-18.png)
-
-Click on your SAP BTP Cloud Foundry environment `XP267_OXX_CF` (as per the username assigned to you, in example, XP267_001_CF) 
-![](./images/02-19.png)
-
-You will open the **Metrics Overview** screen in Health Monitoring. Within the very same screen, scroll-down to **Other Metrics** section and you will find the metric you just had pushed - `space.memory.utilization` with the respective values pushed by SAP Automation Pilot. 
-
-Congrats - you can now feed directly your Observability platform with any metric you might wish to bring in.
-![](./images/02-20.png)
-
-_**Hint - Optional:**_
-
-From this screen, you could click on a metric such as `space.memory.utilization` to view additional details — including its **information**, **rating**, and **current value**.  
-Click on the **History** button to explore historical trends.  
-![](./images/02-21.png)
-
-> 💡 **Note:**  
-> Your environment might not yet show historical data.
-> This feature allows you to analyze how a metric’s value changes over time once multiple data entries are collected, providing deeper operational insights.
 
 
 ### Congrats - you can now feed directly your Observability platform with any metric you might wish to bring in.
@@ -124,9 +95,11 @@ You've now learned how to extend your commands in SAP Automation Pilot by adding
 
 Continue to - [Exercise 3 - Exercise 3 Description](../ex3/README.md)
 
+
+
 ----------------
 
-### [ 🧩 Optional ] - Extend the existing command in SAP Automation Pilot by pushing Org Memory Utilization metric to SAP Cloud ALM  
+### [ 🧩 OPTIONAL ] - Extend the existing command in SAP Automation Pilot by pushing Org Memory Utilization metric to SAP Cloud ALM  
 
 > **Note (Optional Exercise):**  
 > This exercise is **optional**. Due to time limitations, it is **recommended to proceed with the next tasks** first.  
