@@ -75,7 +75,6 @@ You can also explore:
 Let’s create your first custom command.
 
 1. Click  the **Commands** menu item from the left sidebar to navigate to the "Commands" section in SAP Automation Pilot 
-   ![](./images/1-00-00-2.png)
 
 2. Click **Create**.  
    ![](./images/1-00-00-3.png)
