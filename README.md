@@ -1,9 +1,10 @@
-# Session ID - XP267 | Experience the automation of technical operation tasks on SAP BTP
+# Build a Closed-Loop Ops Scenario with AI using SAP Automation Pilot and SAP Cloud ALM
 
-[![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/teched2025-XP267)](https://api.reuse.software/info/github.com/SAP-samples/teched2025-XP267)
+## DSAG BTP Operations Days 20206 (hands-on session)
+
 
 ## Description
-This repository contains the material for the SAP TechEd 2025 with Session ID XP267 - **"Experience the automation of technical operation tasks on SAP BTP"**
+This repository contains the material for the hands-on session - **"Build a Closed-Loop Ops Scenario with AI using SAP Automation Pilot and SAP Cloud ALM"**
 
 
 ## Overview
