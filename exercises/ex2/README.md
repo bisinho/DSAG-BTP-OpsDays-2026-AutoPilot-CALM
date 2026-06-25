@@ -93,7 +93,9 @@ To do so, click on the **Trigger** button located in the the top right screen an
 
 You've now learned how to extend your commands in SAP Automation Pilot by adding new executors to them and reusing also existing command. Moreover, you had managed to trigger command in Automation Pilot that collects further details about your landscape and consume these in a central observability platform such as SAP Cloud ALM. Once that's done, metrics' data is kept in SAP Cloud ALM and it gets visualised in a dashboard such as Metrics Overview in Health Monitoring for further exploration and analysis.
 
-Continue to - [Exercise 3 - Exercise 3 Description](../ex3/README.md)
+
+Proceed to the next step:  
+➡️ [Exercise 3 – Extend SAP Automation Pilot with SAP AI Core for Log Assessment and AI Recommendations](../ex3/README.md)
 
 
 
