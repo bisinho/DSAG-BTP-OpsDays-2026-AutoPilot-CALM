@@ -57,11 +57,11 @@ Next, you will explore **SAP Automation Pilot** and interact with your app endpo
    ![](./images/01-1-01.png)
 
 4. You will land on the **SAP Automation Pilot Dashboard**.  
-   ![](./images/01-1-02.png)
+   ![](./images/dsag-new-01.png)
 
 5. From the left menu, open **Provided Catalogs**.  
    Browse through the 300+ ready-to-use automation commands grouped by catalogs.  
-   ![](./images/01-1-03.png)
+   ![](./images/dsag-new-02.png)
 
 You can also explore:  
 - **My Catalogs** – your custom and extended commands  
